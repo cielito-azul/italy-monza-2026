@@ -1,0 +1,33 @@
+{
+  "id": "/italy-monza-2026/",
+  "name": "義大利 Monza 2026",
+  "short_name": "Monza 2026",
+  "description": "Claire 的義大利 Monza 2026 私人旅行行程網站。",
+  "lang": "zh-Hant",
+  "start_url": "/italy-monza-2026/",
+  "scope": "/italy-monza-2026/",
+  "display": "standalone",
+  "background_color": "#f4dfb0",
+  "theme_color": "#c91f26",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/italy-monza-2026/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/italy-monza-2026/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/italy-monza-2026/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
